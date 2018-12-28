@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "college",
+                "projectName": "college",
+                "workingDirectory": "e:\\jaggy\\jagu\\jagu",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "college",
+                "projectName": "college",
+                "workingDirectory": "e:\\jaggy\\jagu\\jagu",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
